@@ -11,8 +11,8 @@ Objetivos
 Conteúdos
 ==========
 <!--ts-->
-   * [DataBase](https://github.com/EliasCPR/Projeto-FastParking-API/blob/main/Backend/DB.sql)
-   * [Frontend](https://github.com/EliasCPR/Projeto-FastParking-API/blob/main/Frondend/index.html)
+   * [DataBase](https://github.com/EliasCPR/fastParking-integrado/Projeto-FastParking-API/blob/main/Backend/DB.sql)
+   * [Frontend](https://github.com/EliasCPR/fastParking-integrado/Projeto-FastParking-API/blob/main/Frondend/index.html)
    * [JavaScript](#javaScript)
 <!--te-->
 
