@@ -8,13 +8,7 @@ Objetivos
 - Construir um frontend para o controle de estacionamento
 - Contruir uma API para o frontend
 
-Conteúdos
-==========
-<!--ts-->
-   * [DataBase](https://github.com/EliasCPR/fastParking-integrado/Projeto-FastParking-API/blob/main/Backend/DB.sql)
-   * [Frontend](https://github.com/EliasCPR/fastParking-integrado/Projeto-FastParking-API/blob/main/Frondend/index.html)
-   * [JavaScript](#javaScript)
-<!--te-->
+
 
 ### 🛠 Tecnologias
 
@@ -22,5 +16,5 @@ Conteúdos
 - CSS
 - JavaScript
 - mysql
-- [API](https://github.com/EliasCPR/Projeto-FastParking-API/tree/main/Backend)
+- [API]
 
